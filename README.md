@@ -1,7 +1,6 @@
 # Weather-App
 
-Uses ”Open weather” public API with Host name and a key as headers for authorization to get the required
-response in JSON. Users can lookup a city in the search field to get its live weather conditions.
+Uses ”Open weather” public API to get the required weather data for a city as a JSON response. Users can lookup a city in the search field to get its live weather conditions.
 
 Default/homepage :
 
